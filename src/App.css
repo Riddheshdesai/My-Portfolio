@@ -66,6 +66,7 @@ html{
   -webkit-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
   word-spacing: 0.5px;
+  text-decoration: none;
 }
 .home-wrapper .main-btn i{
   color: var(--text-color1);

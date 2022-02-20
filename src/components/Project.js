@@ -51,8 +51,8 @@ export default function Project() {
                         <li className="project-container">
                             <p className="project-name">
                                 Portfolio Website
-                                <a href="https://google.com" class="project-btn" target="_blank" rel="noreferrer">live</a> 
-                                <a href="https://google.com" class="project-btn" target="_blank" rel="noreferrer">Github</a> 
+                                <a href="https://my-portfolio-hazel-psi.vercel.app/" class="project-btn" target="_blank" rel="noreferrer">live</a> 
+                                <a href="https://github.com/Riddheshdesai/My-Portfolio" class="project-btn" target="_blank" rel="noreferrer">Github</a> 
                             </p>
                             <p className="project-des">
                             A personal porfolio website that bring everything about me ,mainly focus on the project section and design for that website<br/>
