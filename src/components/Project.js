@@ -6,12 +6,14 @@ export default function Project() {
         <div className="container">
             <div className="project-wrapper">
                 <div className="row">
-                    <div className="col-4">
-                        <h3 className="Project-tittle">
+                    <div className="col-sm-12 col-lg-4">
+                        <div className="tittle-container d-flex justify-content-lg-end">
+                        <h3 className="Project-tittle pe-lg-5">
                             Projects :
                         </h3>
+                        </div>
                     </div>
-                    <div className="col-6">
+                    <div className="col-sm-11 col-lg-8">
                         <ul>
 
                         <li className="project-container">

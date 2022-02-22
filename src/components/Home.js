@@ -6,9 +6,9 @@ export default function Home() {
     <section id='home'>
         <div className="container ">
             <div className="home-wrapper">
-                <div className="row">
-                    <div className="col-md-8 col-12">
-                        <div className="heading-container ms-5">
+                <div className="row justify-content-center">
+                    <div className=" col-md-7 col-lg-8 col-12">
+                        <div className="heading-container ms-5 my-sm-5 my-lg-0">
                             <h2 className="heading">
                                 Hello, I'm <br />
                                 a Front end Developer
@@ -18,14 +18,14 @@ export default function Home() {
                             I love building beautiful interfaces and web applications.
                             </p>
                             <div className="resume-btn mt-5">
-                                <a href="https://drive.google.com/file/d/1j5bqL3X3I0eCdXJ4tT-k9NpvlycJSKCA/view" target="_blank" rel="noreferrer" className='main-btn'>
+                                <a href="https://drive.google.com/file/d/1j5bqL3X3I0eCdXJ4tT-k9NpvlycJSKCA/view?usp=sharing" target="_blank" rel="noreferrer" className='main-btn'>
                                     View my resume
                                 </a>
                             </div>
                         </div>
 
                     </div>
-                    <div className="col-md-4 col-12">
+                    <div className="col-md-5 col-lg-4 col-10 mt-5 mt-lg-0 p-sm-4 p-lg-0">
                         <img src={codeboy} alt="codeboy" className='img-fluid'/>
                     </div>
                 </div>
