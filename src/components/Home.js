@@ -18,7 +18,7 @@ export default function Home() {
                             I love building beautiful interfaces and web applications.
                             </p>
                             <div className="resume-btn mt-5">
-                                <a href="https://drive.google.com/file/d/1j5bqL3X3I0eCdXJ4tT-k9NpvlycJSKCA/view?usp=sharing" target="_blank" rel="noreferrer" className='main-btn'>
+                                <a href="https://drive.google.com/file/d/111YpAJsQ1KgYYA1Hs4u-QezuGtFjM_ZA/view?usp=sharing" target="_blank" rel="noreferrer" className='main-btn'>
                                     View my resume
                                 </a>
                             </div>
