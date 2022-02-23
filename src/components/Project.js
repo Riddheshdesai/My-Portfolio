@@ -20,7 +20,7 @@ export default function Project() {
                             <p className="project-name">
                                 News App
                             {/* <a href="https://google.com" class="project-btn" target="_blank" rel="noreferrer">live</a>  */}
-                            <a href="https://google.com" class="project-btn" target="_blank" rel="noreferrer">Github</a>
+                            <a href="https://github.com/Riddheshdesai/NewsApp" class="project-btn" target="_blank" rel="noreferrer">Github</a>
                             </p>
                             <p className="project-des">
                             A fully responsive news web app that fetch news from Api and showcase latest trending news category-wise.<br/>
